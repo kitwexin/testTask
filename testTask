@@ -1,0 +1,16 @@
+Добрый день, меня зовут Алексей. Мне 19 лет. Окончил МГПК по специальности маркетинг. На третьем курсе (в конце 2020) заинтересовался IT сферой и сначала окончил общий курс Основы Computer Science в IT Academy, а сразу после курс Web Development на Python там же. Уже долгое время нахожусь в поиске вакансии соответствующей моим навыкам. Очень хочу максимально развивать все свои умения связанные с разработкой и готов прилагать для этого максимум усилий.
+I choose Python because I heard that it is the most understandable and universal programing language. You can write everything with this from mobile applications to neural networks. I tried to write telegram bots, web applications and small parsers yet.
+
+Task 2:
+
+def first_repeating_symbol(array):
+    for i in array:
+        if i == array[(array.index(i)+1)]:
+            print(i)
+            break
+
+first_repeating_symbol([‘a','b','c','c','a'])
+
+Сделал только второе задание, так как никогда до этого не сталкивался с автоматизированным тестированием. Но, в случае необходимости, с удовольствием разберусь и узнаю об этом побольше.
+
+На второе задание потратил несколько минут)
